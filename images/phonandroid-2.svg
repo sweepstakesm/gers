@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 62 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-256,-4352)">
+        <g id="Logo-Phonandroid">
+            <clipPath id="_clip1">
+                <rect id="Objet-dynamique-vectoriel" x="256" y="4352" width="62" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <clipPath id="_clip2">
+                    <rect x="256" y="4352" width="62" height="90"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g transform="matrix(1,-0,-0,1,256,4352)">
+                        <use xlink:href="#_Image3" x="0" y="0" width="62px" height="90px"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image3" width="62px" height="90px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAABaCAYAAADgpOUIAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABFUlEQVR4nO3aXQqCYBBG4flzF+23hbQe12R3Qt5EjiTDeQ9IdFH4NFp9om/bthmwuHsH7kpwWoLTEpyW4LQEpyU4LcFpVfcN3N2v2JFf615HwE5ccFqC0xKcluC0BKclOC3BaQlOS3BaWLh3L9qt62rLsuxbVVlVWWbuW0RYZpq7W0R8PB43M7Pj9ctvz8+EnbjgtASnJTgtwWkJTktwWoLTaq/H77r55/l6tPa7fdfTXeXS+7zHwkvwk6+/aD/+XhQUngGFYyfeHPhgeEIn7s3/nGPh0fzDOBaOnXh3hTAXTv0d7y4JsevxsRPvjlzwaXXP8bHwrhz75YaFjz3Uwed4j4491AWnJTgtwWkJTktwWoLTegOaYhZrdoCWjAAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
